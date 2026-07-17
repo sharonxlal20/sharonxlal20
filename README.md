@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sharon Abhishek Lal</h1>
-<h3 align="center">Full-Stack Developer | Competitive Programming | ML/DL Enthusiast</h3>
-
 ---
 
 - 🎓 CS student at **Thapar University** (Class of 2027), CGPA 9.05
