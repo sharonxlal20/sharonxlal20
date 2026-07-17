@@ -7,8 +7,7 @@
 - 🚀 Building **VitalWatch** — an AI-powered chronic disease early-warning system with React, Express, MongoDB, Redis and FastAPI, using LSTM/GRU models to detect abnormal vital-sign trends, with secure role-based APIs and real-time WebSocket alerts — [GitHub](#)
 - 🛠️ Shipped **Job Tracker** — a full MERN job-application tracker with JWT auth, backend search/filter/sort/pagination, and a custom-branded animated dashboard — [Live](#) · [GitHub](#)
 - 🧠 Built an **Employee Layoff Prediction System** — a sequence-based LSTM model predicting layoff risk from organizational data, hitting 92% accuracy on 1,000+ employee records, deployed via Streamlit — [GitHub](#)
-- ⚡ Grinding **LeetCode** in C++ and competitive programming
-- 🏆 2nd Runner-Up at **Hacklypse** — placed top 3 out of 100+ teams
+- ⚡ Grinding **LeetCode** in C++ 
 - 📫 Reach me at **sharonlal.spc@gmail.com**
 
 ---
@@ -35,9 +34,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sharonxlal20&show_icons=true&theme=dark&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharonxlal20&theme=dark&hide_border=true" height="165" />
-</p>
