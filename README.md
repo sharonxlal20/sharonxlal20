@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharon Abhishek Lal</h1>
 
+### About myself
+
 - CS student at **Thapar University** (Class of 2027), CGPA 9.05
 - **VitalWatch** — an AI-powered chronic disease early-warning system with React, Express, MongoDB, Redis and FastAPI, using LSTM/GRU models to detect abnormal vital-sign trends, with secure role-based APIs and real-time WebSocket alerts — [Live](https://vitalwatch-zeta.vercel.app/)
 - **Job Tracker** — a full MERN job-application tracker with JWT auth, backend search/filter/sort/pagination, and a custom-branded animated dashboard — [Live](https://job-tracker-frontend-ecru-ten.vercel.app/) ·
@@ -10,7 +12,7 @@ and many more projects!
 
 ---
 
-### 🧰 Skills
+### Skills
 
 **Languages**
 ![Skills](https://skillicons.dev/icons?i=java,cpp,python,matlab,js,html,css,r)
@@ -23,7 +25,7 @@ and many more projects!
 
 ---
 
-### 🔗 Socials
+### Socials
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sharonabhisheklal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
